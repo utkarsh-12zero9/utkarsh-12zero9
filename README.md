@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Frontend Developer Intern, building smooth UI/UX with modern JS frameworks.<br>👯 I’m looking to collaborate on full-stack projects, frontend architectures, and ML-powered web applications.<br>🤝 I’m looking for help with advanced system design and scaling real-world applications.<br>🌱 I’m currently learning Spring Boot, scalable backend patterns, and integrating ML models into products.<br>💬 Ask me about JavaScript, React, Node.js, Spring Boot, REST APIs, or anything full-stack.<br>⚡ Fun fact: I love turning complex problems into clean, minimal code - and I'm always experimenting with new project ideas.
+🔭 I’m currently working as a Frontend Developer Intern, building smooth UI/UX with modern JS frameworks.<br>👯 I’m looking to collaborate on full-stack projects, frontend architectures, and ML-powered web applications.<br>🤝 I’m looking for help with advanced system design and scaling real-world applications.<br>🌱 I’m currently learning Django, scalable backend patterns, and integrating ML models into products.<br>💬 Ask me about JavaScript, React, Node.js, REST APIs, or anything full-stack.<br>⚡ Fun fact: I love turning complex problems into clean, minimal code - and I'm always experimenting with new project ideas.
 
 
 ## 🌐 Socials:
